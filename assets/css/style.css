@@ -275,7 +275,7 @@ span p{
 		
 }
 .col-2 {
-	width: calc(100% * 6 /12)!important;
+	width: 100%;
 }
 	
 .section-second .twentypercent{
