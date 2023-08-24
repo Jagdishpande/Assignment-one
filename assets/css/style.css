@@ -227,7 +227,14 @@ span p{
 .fontweight{
 	font-weight: 600;
 }
+.mtb{
+	cursor: pointer;
+}
+.mtb:hover{
+	transform: translatex(15px);
+}
 
+/*  mediaqueries */
 
 @media all and (max-width:600px){
 
@@ -265,8 +272,6 @@ span p{
 		border-top: 5px solid var(--blue);
 		border-radius: 10px;
 		border-left: 0;
-	
-
 		
 }
 .col-2 {
